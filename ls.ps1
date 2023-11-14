@@ -1,1 +1,1 @@
-ls > c:\users\$env:username\documents\test.txt
+ls > c:\users\$env:username\Desktop\test.txt
